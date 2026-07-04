@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="96" fill="#0d1320"/>
+<circle cx="256" cy="245" r="195" fill="none" stroke="#c79a3b" stroke-width="16"/>
+<text x="145" y="260" font-size="190" font-family="Georgia" fill="#f6f0e6">T</text>
+<text x="244" y="320" font-size="145" font-family="Georgia" fill="#c79a3b">W</text>
+<path d="M330 330 C380 300 420 326 442 372 C390 378 355 360 330 330Z" fill="#79c86f"/>
+</svg>
